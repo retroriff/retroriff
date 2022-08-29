@@ -9,4 +9,4 @@ I'm a web developer & SEO consultant, working in Finland.
 
 **BIO**
 - 🌍 Here you will find: `.html`, `.css`, `.vue`, `.js`, `.ts`, `.scd`
-- ⚙️ SEO favorite tools: Ahrefs, Screaming Frog, Google Search Console
+- ⚙️ SEO favorite tools: Ahrefs, Google Search Console and Screaming Frog
