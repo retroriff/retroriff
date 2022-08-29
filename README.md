@@ -1,6 +1,6 @@
 
 ## Hello, I'm Xavi 👋🏻
-**I'm a web developer & SEO consultant, working in Finland.**
+I'm a web developer & SEO consultant, working in Finland.
 
 **NOW**
 - 🏢 I'm currently working at [Schibsted](https://schibsted.com/)
